@@ -1,0 +1,15 @@
+{
+  "name": "aircraft-panel-showcase",
+  "version": "1.0.0",
+  "description": "Aircraft Showcase Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
+  },
+  "author": "Tanzeel Saeed",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
